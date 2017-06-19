@@ -78,8 +78,8 @@
 			isa = PBXGroup;
 			children = (
 				BFE190651EF43D1900B56577 /* AppDelegate.swift */,
-				BFE190671EF43D1900B56577 /* ViewController.swift */,
 				BFE190691EF43D1900B56577 /* Main.storyboard */,
+				BFE190671EF43D1900B56577 /* ViewController.swift */,
 				BFE1906C1EF43D1900B56577 /* Assets.xcassets */,
 				BFE1906E1EF43D1900B56577 /* LaunchScreen.storyboard */,
 				BFE190711EF43D1900B56577 /* Info.plist */,
@@ -414,6 +414,7 @@
 				BFE190811EF43D1A00B56577 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BFE190821EF43D1A00B56577 /* Build configuration list for PBXNativeTarget "FoodTrackerTests" */ = {
 			isa = XCConfigurationList;
@@ -422,6 +423,7 @@
 				BFE190841EF43D1A00B56577 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
